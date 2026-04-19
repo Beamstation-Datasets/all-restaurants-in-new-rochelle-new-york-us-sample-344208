@@ -9,9 +9,9 @@
 | Dataset ID | `344208` |
 | Location | New Rochelle |
 | Category | Restaurants |
-| Full dataset size | 318 records |
-| Free sample size | 31 records (9.75%) |
-| Last export | 2026-04-09T12:29:19.222461+00:00 |
+| Full dataset size | 319 records |
+| Free sample size | 31 records (9.72%) |
+| Last export | 2026-04-16T12:26:03.009200+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-new-rochelle-new-york-us-sample-344208/releases/download/sample-latest/beamstation_344208_restaurants-us-ny_SAMPLE_DIST.csv) |
 
 ## What is in this sample
