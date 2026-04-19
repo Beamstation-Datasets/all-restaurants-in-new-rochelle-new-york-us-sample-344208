@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Complete restaurant market coverage for New Rochelle, New York. Filtered by the Restaurants category group with verified business profiles, review sentiment, competitive analysis, and contact information. Refreshed weekly.",
   "config_name": "All Restaurants in New Rochelle, New York, US",
-  "export_job_id": "9771500c-85f4-4527-8a7d-5d51206edea8",
+  "export_job_id": "46096322-37b1-4ed9-af46-b3d9e93fcb33",
   "github_org": "Beamstation-Datasets",
   "id_short": 344208,
   "location_name": "New Rochelle",
   "location_type": "city",
   "repo_name": "all-restaurants-in-new-rochelle-new-york-us-sample-344208",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/344208/beamstation_344208_restaurants-us-ny_SAMPLE_DIST.csv",
-  "sample_pct": 9.75,
+  "sample_pct": 9.72,
   "sample_records": 31,
-  "sample_sha256": "5fda68f349b8ba3663a2db9537023ec77809b4ef0c2eb0a30b4b08c98bb9ed3f",
-  "sample_size_bytes": 112892,
-  "total_records": 318,
-  "updated_at": "2026-04-09T12:29:19.222461+00:00"
+  "sample_sha256": "2adcce3e588105034f02b2cae2a9b4edde997d52a8966f82bcfd20e376c3f0ac",
+  "sample_size_bytes": 106502,
+  "total_records": 319,
+  "updated_at": "2026-04-16T12:26:03.009200+00:00"
 }
