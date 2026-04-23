@@ -1,12 +1,12 @@
 {
-  "export_job_id": "46096322-37b1-4ed9-af46-b3d9e93fcb33",
+  "export_job_id": "35cbfd35-0f53-4f15-8351-129ddd05c658",
   "id_short": 344208,
-  "published_at": "2026-04-19T19:30:50Z",
+  "published_at": "2026-04-23T19:35:57Z",
   "repo_name": "all-restaurants-in-new-rochelle-new-york-us-sample-344208",
   "sample_asset_name": "beamstation_344208_restaurants-us-ny_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/344208/beamstation_344208_restaurants-us-ny_SAMPLE_DIST.csv",
   "sample_records": 31,
-  "sample_sha256": "2adcce3e588105034f02b2cae2a9b4edde997d52a8966f82bcfd20e376c3f0ac",
-  "sample_size_bytes": 106502,
-  "total_records": 319
+  "sample_sha256": "158937bd77ab3517c2b0c60fbd3b99f6255b1091619dfa67412ea95b7bb8d159",
+  "sample_size_bytes": 109127,
+  "total_records": 310
 }
